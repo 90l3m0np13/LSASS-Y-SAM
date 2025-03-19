@@ -3,7 +3,7 @@
 Este proyecto explica cómo volcar y extraer hashes de las cuentas locales de Windows utilizando los archivos SAM, SYSTEM y el proceso LSASS. También se incluyen métodos para descifrar los hashes con John the Ripper.
 
 ---
-
+![imagen](https://github.com/90l3m0np13/LSASS-Y-SAM/blob/main/Imagen.jpeg)
 ## **Requisitos**
 - Máquina Windows (para el volcado de SAM, SYSTEM y LSASS).
 - Máquina Kali Linux (para la extracción y descifrado de hashes).
